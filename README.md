@@ -16,7 +16,7 @@ After completing this, the election commission made a secondary request to compl
 3. The county with the highest turnout
 
 ### Resources
--Data Source: [(election_results.csv)](https://github.com/Bulzeye89/Election_Analysis/blob/main/Resources/election_results.csv)
+-Data Source: [(election_results.csv)](https://github.com/Bulzeye89/Election_Analysis/blob/main/Resources/election_results.csv)<br />
 -Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
 ## Election Audit Results
