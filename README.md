@@ -42,7 +42,7 @@ In analyzing the code further to complete the commission's secondary request, th
   - 10.5% for Jefferson
   - 82.8% for Denver
   - 6.7% for Arapahoe
--Denver had the highest turnout.  
+- Denver had the highest turnout.  
 
 ## Election Audit Summary
 
