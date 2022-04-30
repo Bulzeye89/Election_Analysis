@@ -46,7 +46,7 @@ In working the code further to complete the commission's secondary request, the 
 
 When the script is ran on the election data, all of this info is saved in an easily accessible txt file for the election.  A screenshot of the output can be seen below.  
 
-<img src="https://github.com/Bulzeye89/Election_Analysis/blob/main/analysis/election_analysis.txt" width=50% height=50%>
+
 
 ## Election Audit Summary
 
