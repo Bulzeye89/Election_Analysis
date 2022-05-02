@@ -52,6 +52,5 @@ When the script is ran on the election data, the above data will be displayed in
 
 ## Election Audit Summary
 
-
-
+As shown above, this election audit for these three counties can be done in a fractions of a second once all the data has been aggregated together.  If the Colorado Board of elections wishes to use this for other counties in the state, for future elections, or if they have any contacts in neighboring states that would benefit from this audit process, I will be at your disposal.  An additional insight that could be explored from the data provided is the total votes each candidate received in each county.  It's possible that Diana Deggete won the election but only one Denver county and lost the other two counties.  This could be easily added into the code to highlight.  In addition, if additional data sources were combined with what had been provided, more than things could have been explored in the audit.  For instance, if census info or candidate's campaign budgets were were combined with this data, there are many different relationships we could explore with the total vote outcomes that would many future candidates would be interested in learning.  
 
