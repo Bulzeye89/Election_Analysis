@@ -44,7 +44,9 @@ In working the code further to complete the commission's secondary request, the 
   - 6.7% for Arapahoe
 - Denver had the highest turnout.  
 
-When the script is ran on the election data, all of this info is saved in an easily accessible txt file for the election.  A screenshot of the output can be seen below.  
+When the script is ran on the election data, the above data will be displayed in the terminal output (as seen in below screenshot) as well as saved in an easily accessible txt file.  
+
+![terminal output](https://github.com/Bulzeye89/Election_Analysis/blob/main/Resources/Election-Analysis-terminal-output.png)
 
 
 
